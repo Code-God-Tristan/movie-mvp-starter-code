@@ -1,4 +1,24 @@
 body {
-  background-image: url("https://daily.jstor.org/wp-content/uploads/2017/11/popcorn_history_1050x700.jpg");
+  background-image: url("https://cdn.glitch.global/188b58f0-7c6f-496a-9a97-49e05ac94bb5/2022-05-26%20(3).png?v=1653603983709");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+img {
+  width: 7%;
+ left:20%;
+  position:relative;
 }
 
+p{
+  position:relative;
+  left:20%
+}
+.title{
+  text-align:center;
+}
+input{
+   position:relative;
+ width:50%;
+
+}
